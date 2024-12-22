@@ -1,16 +1,24 @@
-# tech_task
+# Flutter challenge
+- First one showing numeric metrics about the orders: total count, average price
+  and number of returns.
+- Second one showing a graph displaying the number of orders as the Y-axis
+  and time as the X-axis.
 
-A new Flutter project.
 
-## Getting Started
+# Setup Instructions
+To set up and run this application on an Android device or web, follow these steps:
 
-This project is a starting point for a Flutter application.
+1- Clone the Repository
+- git clone https://github.com/Mohamed-Talaat-Osman/tech-task
+- cd your-repo-name
 
-A few resources to get you started if this is your first Flutter project:
+2- Install Dependencies
+- flutter sdk is 3.24.0
+- flutter pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3- Run the Application
+- flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Download APK
+You can download the APK for testing the application on android from the following link:
+>> https://drive.google.com/file/d/1NCfpnfWkSjnOH7w9Se_n5MNkK-QKT3QN/view?usp=sharing <<
